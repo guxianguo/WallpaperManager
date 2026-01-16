@@ -1,2 +1,2 @@
-PATH: WallpaperEngine存储壁纸的431960文件夹地址
-USERDATA_PATH: Steam创意工坊中WallpaperEngine订阅文件路径
+PATH: WallpaperEngine存储壁纸的431960文件夹地址  
+USERDATA_PATH: Steam创意工坊中WallpaperEngine订阅文件路径  
